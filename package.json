@@ -1,0 +1,19 @@
+{
+  "name": "twitfeed",
+  "version": "0.1.0",
+  "description": "Twitter searcher and RSS presenter",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "q": "^1.5.0",
+    "rss": "^1.2.2",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giles Dring <giles@dringtech.com>",
+  "license": "ISC"
+}
